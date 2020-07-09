@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hy! Halo! I'm Muhammad Rizki 👋
+    
+    🔭 I’m currently PHP Developer
+    🌱 I’m currently learning Frond End Developer
+    
+    
+
+
 
 <!--
 **Kyohei7/Kyohei7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
